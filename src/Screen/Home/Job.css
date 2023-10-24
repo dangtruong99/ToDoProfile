@@ -1,0 +1,26 @@
+.jobForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 20px;
+  margin: 50px;
+  padding: 100px;
+}
+
+/* .formList {
+  display: flex;
+  justify-content: space-around;
+}
+
+h3 {
+  padding: 0px 50px 0px 50px;
+}
+
+.name {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+} */
